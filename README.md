@@ -16,7 +16,7 @@ Two players take turns to place their marks (X and O) and the game highlights th
 
 ## 🚀 Live Demo
 
-[🔗 Click here to play the game](https://YOUR_USERNAME.github.io/tic-tac-toe_game/)
+[🔗 Click here to play the game](https://muhammadhuzaifayousaf.github.io/Tic-Tac-Toe_Game_React-JS/)
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +29,7 @@ Two players take turns to place their marks (X and O) and the game highlights th
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/tic-tac-toe_game.git
+git clone https://github.com/muhammadhuzaifayousaf/Tic-Tac-Toe_Game_React-JS.git
 cd tic-tac-toe_game
 
 # Install dependencies
